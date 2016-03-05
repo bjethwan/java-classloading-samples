@@ -1,0 +1,4 @@
+{
+	"factoryJar": "file:///Users/bjethwan/java-classloading-samples/sample5/ext-lib/library2.jar",
+	"factoryClass": "com.library2.NikkonCameraFactory"
+}
